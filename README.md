@@ -1,2 +1,3 @@
 # redirecting-preloader
-View it live [here](https://dubey-tech.github.io/redirecting-preloader/).
+
+Live here -> [https://dubey-prashant.github.io/redirecting-preloader/](https://dubey-prashant.github.io/redirecting-preloader/).
